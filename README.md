@@ -1,17 +1,14 @@
-# clean_arch_search_github
+# 🔍 Clean Arch - GitHub Search
 
-A new Flutter project.
+Aplicativo Flutter que busca usuários do GitHub utilizando **Clean Architecture**, **Flutter Modular** e **Bloc**. O foco é manter uma estrutura escalável, testável e organizada.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como rodar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# clean_arch_search_github
+```bash
+git clone https://github.com/devcarlosdias/clean_arch_flutterando_search_github.git
+cd clean_arch_flutterando_search_github
+flutter pub get
+flutter run
